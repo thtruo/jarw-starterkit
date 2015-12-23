@@ -1,7 +1,7 @@
 {
-  "name": "catclicker",
+  "name": "Project Name Goes Here",
   "version": "0.1.0",
-  "description": "An Inspiration from Ian Bogost's Cow Clicker",
+  "description": "Provide a short description of your project here",
   "main": "index.jsx",
   "scripts": {
     "build": "webpack --progress",
@@ -16,17 +16,19 @@
     ]
   },
   "keywords": [
-    "Udacity",
+    "Javascript",
     "ES6",
     "Babel",
-    "Javascript",
+    "ESLint",
     "Node",
+    "NPM",
     "React",
     "Webpack",
     "HTML",
-    "CSS"
+    "CSS",
+    "JARW"
   ],
-  "author": "Thomas Truongchau",
+  "author": "Your Name <youremail@email.com>",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-loader": "^3.1.0",
