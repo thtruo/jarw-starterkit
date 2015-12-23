@@ -14,3 +14,7 @@ Feel free to fork your own from github and then run these commands
     npm install
 
 Bam. Done. (For Now)
+
+## Other Resources
+
+- The [react-webpack-cookbook](https://github.com/christianalfoni/react-webpack-cookbook) is a great resource
